@@ -1,5 +1,0 @@
-default
-stairs?
-beds?
-farming?
-doors?
